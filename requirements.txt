@@ -1,0 +1,6 @@
+twisted
+autobahn
+bottle
+bcrypt
+python-dotenv
+PyJWT
